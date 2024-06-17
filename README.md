@@ -1,4 +1,4 @@
-# CS330
+#  CS330 - Project two
 
 # Original
 ![alt text](https://github.com/j33s3/CS330/blob/main/RealScene.jpg?raw=true)
